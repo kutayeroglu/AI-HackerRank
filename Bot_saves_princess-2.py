@@ -1,4 +1,7 @@
-#
+'''
+Link to problem:
+https://www.hackerrank.com/challenges/saveprincess2?h_r=profile&hr_b=1
+'''
 
 def nextMove(n,r,c,grid):
     # Initialize row and colum coordinates of the princess
